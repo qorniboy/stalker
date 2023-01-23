@@ -1,0 +1,12 @@
+{
+  "general": {
+    "proxy_address": "127.0.0.1",
+    "port": 1234
+  },
+  "amass": {
+    "seed_asns": "",
+    "seed_domain": "",
+    "seed_cidr": "",
+    "seed_ips": ""
+  }
+}
